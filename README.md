@@ -2,10 +2,10 @@
 
 Hi! 👋 I'm passionate architect and successful team leader with over 15 years of experience in commercial software development with various technologies and stacks.
 
-    🕸 Successfully drove a transformation of a large monolithic application to a set of microservices hosted in a private cloud with Kubernetes orchestration.
-    👨‍💻 Full stack, end to end, polyglot. Design, implementation, testing, UX,  CI/CD, DevOps, Security Audit. All aspects of application life-cycle management.
-    ☁️ Multi-cloud experience: AWS, Azure
-    🎤 Competent speaker with experience from different software development and IT conferences in Ukraine.
+* 🕸 Successfully drove a transformation of a large monolithic application to a set of microservices hosted in a private cloud with Kubernetes orchestration.
+* 👨‍💻 Full stack, end to end, polyglot. Design, implementation, testing, UX,  CI/CD, DevOps, Security Audit. All aspects of application life-cycle management.
+* ☁️ Multi-cloud experience: AWS, Azure
+* 🎤 Competent speaker with experience from different software development and IT conferences in Ukraine.
 
 You can find a bunch more details on LinkedIn: <https://www.linkedin.com/in/dimapasko/>
 
