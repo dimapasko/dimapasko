@@ -1,5 +1,6 @@
 # Dima Pasko | @dimapasko
 
+<!--
 Solution Architect @ EPAM Systeams
 
 🤓 Over 15 years of experience
@@ -16,8 +17,9 @@ Solution Architect @ EPAM Systeams
 Telegram: https://t.me/dimapasko
 
 LinkedIn: https://www.linkedin.com/in/dimapasko/
+-->
 
-<!--
+
 Hi! 👋 I'm passionate architect and successful team leader with over 15 years of experience in commercial software development with various technologies and stacks.
 
 * 🕸 Successfully drove a transformation of a large monolithic application to a set of microservices hosted in a private cloud with Kubernetes orchestration.
@@ -26,7 +28,6 @@ Hi! 👋 I'm passionate architect and successful team leader with over 15 years 
 * 🎤 Competent speaker with experience from different software development and IT conferences in Ukraine.
 
 You can find a bunch more details on LinkedIn: <https://www.linkedin.com/in/dimapasko/>
--->
 
 <!--
 **dimapasko/dimapasko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
