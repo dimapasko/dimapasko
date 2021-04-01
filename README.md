@@ -6,7 +6,7 @@ Hi! 👋 I'm passionate architect and successful Team Lead/Tech Lead with over 1
 - ☁️ Multi-cloud experience: AWS, Azure |  🕸 Serverless
 - ☸ Cloud Native | Kubernetes
 - 🎤 Public speaking experience: [ItJam](https://www.slideshare.net/dimapasko/reactive-extensions-8084573), [XP Days](https://www.youtube.com/watch?v=VHeB9uH21II), etc
-- 💻 [IASA CITA-Foundation Certified](https://www.credly.com/earner/earned/badge/9b55c9aa-5e7d-4ac4-ad42-000917ba56b2)
+- 📃 [IASA CITA-Foundation Certified](https://www.credly.com/earner/earned/badge/9b55c9aa-5e7d-4ac4-ad42-000917ba56b2)
 
 Subscribe to my Telegram Channel: <https://t.me/DeveloperPreacher>
 
