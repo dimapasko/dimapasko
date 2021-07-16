@@ -5,7 +5,7 @@ Hi! 👋 I'm passionate architect and successful Team Lead/Tech Lead with over 1
 - 💻 Solution Design, Full Stack, Polyglot (.NET, Java, JavaScript), DevOps
 - ☁️ Multi-cloud experience: AWS, Azure |  🕸 Serverless
 - ☸ Cloud Native | Kubernetes
-- 🎤 Public speaking experience: [ItJam](https://www.slideshare.net/dimapasko/reactive-extensions-8084573), [XP Days](https://www.youtube.com/watch?v=VHeB9uH21II), etc
+- 🎤 Public speaking experience: [ItJam](https://www.slideshare.net/dimapasko/reactive-extensions-8084573), [XP Days](https://www.youtube.com/watch?v=VHeB9uH21II), [{JACOV}](https://www.youtube.com/watch?v=sXLZQ27rM8o) etc
 - 📃 [IASA CITA-F Certified](https://www.credly.com/earner/earned/badge/9b55c9aa-5e7d-4ac4-ad42-000917ba56b2)
 
 Subscribe to my Telegram Channel: <https://t.me/DeveloperPreacher>
