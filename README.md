@@ -1,6 +1,6 @@
 # Dima Pasko | @dimapasko
 
-Hi! 👋 I'm passionate architect and successful Team Lead/Tech Lead with over 17 years of experience in commercial software development with various technologies and stacks.
+Hi! 👋 I'm passionate architect and successful Architect/Tech Lead/Team Lead with over 17 years of experience in commercial software development with various technologies and stacks.
 
 - 🇺🇦 Kharkiv, Ukraine
 - 💻 Solution Design, Full Stack, Polyglot (.NET, Java, JavaScript), DevOps
