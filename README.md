@@ -6,8 +6,8 @@ Hi! 👋 I'm passionate architect and successful Architect/Tech Lead/Team Lead w
 - 💻 Solution Design, Full Stack, Polyglot (.NET, Java, JavaScript), DevOps
 - ☁️ Multi-cloud experience: AWS, Azure |  🕸 Serverless
 - ☸ Cloud Native | Kubernetes
-- 🎤 Public speaking experience: [ItJam](https://www.slideshare.net/dimapasko/reactive-extensions-8084573), [XP Days](https://www.youtube.com/watch?v=VHeB9uH21II), [{JACOV}](https://www.youtube.com/watch?v=sXLZQ27rM8o) etc
-- 📃 [IASA CITA-F Certified](https://www.credly.com/earner/earned/badge/9b55c9aa-5e7d-4ac4-ad42-000917ba56b2)
+- 🎤 Public speaking experience: [XP Days](https://www.youtube.com/watch?v=VHeB9uH21II), [Zed Conference](https://community-z.com/events/zed-compass/talks/13971), [{JACOV}](https://www.youtube.com/watch?v=sXLZQ27rM8o), [ItJam](https://www.slideshare.net/dimapasko/reactive-extensions-8084573) etc
+- 📃 [IASA CITA-F Certified](https://www.credly.com/earner/earned/badge/9b55c9aa-5e7d-4ac4-ad42-000917ba56b2), [AWS Solutions Architect – Associate](https://www.credly.com/earner/earned/badge/c3d0949f-97e7-4bfe-9f1d-9dc257c35493)
 
 Subscribe to my Telegram Channel: <https://t.me/DeveloperPreacher>
 
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 -->
 
 <!--
-Solution Architect @ EPAM Systeams
+Solution Architect @ EPAM Systems
 
 🤓 Over 15 years of experience
 
