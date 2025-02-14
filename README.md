@@ -1,6 +1,6 @@
 # Dima Pasko | @dimapasko
 
-Hi! 👋 I'm passionate and successful Solution Architect/Tech Lead with over 18 years of experience in commercial software development with various technologies and stacks.
+Hi! 👋 I'm passionate and successful Solution Architect/Tech Lead with over 20 years of experience in commercial software development with various technologies and stacks.
 
 - 🏛️ Software Architecture, Architecture Governance
 - 💻 Full Stack, Polyglot (.NET, Java, JavaScript)
